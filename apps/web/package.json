@@ -70,6 +70,9 @@
     "tweetnacl": "^1.0.3",
     "zod": "^4.4.3"
   },
+  "optionalDependencies": {
+    "isolated-vm": "6.1.2"
+  },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.19",
     "@types/bn.js": "^5.2.0",
