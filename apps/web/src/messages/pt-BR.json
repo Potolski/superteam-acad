@@ -587,6 +587,7 @@
     "collectionMismatch": "A coleção não corresponde à coleção de credenciais do curso.",
     "minterNotActive": "O papel de minter não está ativo.",
     "minterAmountExceeded": "A quantidade excede o limite do minter.",
+    "minterCapExceeded": "Isso excederia o limite cumulativo de XP do minter.",
     "labelTooLong": "O rótulo excede o comprimento máximo.",
     "achievementIdTooLong": "O ID da conquista excede o comprimento máximo.",
     "achievementNameTooLong": "O nome da conquista excede o comprimento máximo.",

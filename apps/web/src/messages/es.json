@@ -587,6 +587,7 @@
     "collectionMismatch": "La colección no coincide con la colección de credenciales del curso.",
     "minterNotActive": "El rol de minter no está activo.",
     "minterAmountExceeded": "La cantidad excede el límite del minter.",
+    "minterCapExceeded": "Esto excedería el límite acumulado de XP del minter.",
     "labelTooLong": "La etiqueta excede la longitud máxima.",
     "achievementIdTooLong": "El ID del logro excede la longitud máxima.",
     "achievementNameTooLong": "El nombre del logro excede la longitud máxima.",
